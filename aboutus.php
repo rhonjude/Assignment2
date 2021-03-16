@@ -19,26 +19,26 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><strong><ss>Department of Computer Science</ss></strong></a>
+          <a class="navbar-brand" href="index.php"><strong><ss>Department of Computer Science</ss></strong></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   More...
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
-                  <li><a class="dropdown-item" href="department.html">Department</a></li>
-                  <li><a class="dropdown-item" href="aboutus.html">About us</a></li>
+                  <li><a class="dropdown-item" href="gallery.php">Gallery</a></li>
+                  <li><a class="dropdown-item" href="department.php">Department</a></li>
+                  <li><a class="dropdown-item" href="aboutus.php">About us</a></li>
                 </ul>
               </li>
             </ul>
@@ -69,14 +69,14 @@
               <div class="carousel-item active">
                 <img height="300px" src="https://lh3.googleusercontent.com/proxy/gHe__wWxpBWH-E5UrLKRtyHB0xrotUWpcLZtXKEQG8vz6tHaEOexcelQ9frLOfBiAN-A1gcvOjDSTS42jojlBT97tw" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <a href="mca.html" class="btn btn-danger"><h5>MCA</h5></a>
+                    <a href="mca.php" class="btn btn-danger"><h5>MCA</h5></a>
                   
                 </div>
               </div>
               <div class="carousel-item">
                 <img height="300px" src="https://www.sas.com/pt_br/insights/analytics/what-is-analytics/_jcr_content/par/styledcontainer_1322848736/image.img.jpg/1612795184376.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <a href="msc.html" class="btn btn-danger"><h5>MSc Computer Science</h5></a>
+                    <a href="msc.php" class="btn btn-danger"><h5>MSc Computer Science</h5></a>
                   
                 </div>
               </div>
